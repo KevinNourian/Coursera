@@ -12,7 +12,7 @@ I will perform the following tasks on this dataset:
 2. Provide basic information about the data
 3. Clean and prepare the data for analysis
 4. Provide basic descriptive statistics
-5. Deal with outlier data
+5. Deal with outlier datag
 6. Perform Exploratory Data Analysis (EDA)
 7. Summarize and provide conclusions of my findings
 8. Discuss possible further analysis
@@ -64,4 +64,4 @@ Open the file in Jupyter Notebook.
 
 
 ## Logo Image Credit
-Image by <a href="https://pixabay.com/images/id-1147815/">
+Image by https://pixabay.com/images/id-1147815
