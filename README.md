@@ -64,4 +64,4 @@ Open the file in Jupyter Notebook.
 
 
 ## Logo Image Credit
-Image by https://pixabay.com/images/id-1147815
+Image by: https://pixabay.com/images/id-1147815
