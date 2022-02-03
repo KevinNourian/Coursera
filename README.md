@@ -1,4 +1,4 @@
-![Alt_Text](https://github.com/KevinNourian/Coursera/blob/main/Images/library-1147815_1920.jpg)
+![Alt_Text](https://github.com/KevinNourian/Coursera/blob/main/Images/coursera.png)
 
 
 # Coursera Analysis
@@ -10,7 +10,7 @@ I will perform the following tasks on this dataset:
 2. Provide basic information about the data
 3. Clean and prepare the data for analysis
 4. Provide basic descriptive statistics
-5. Deal with outlier datag
+5. Deal with outlier data
 6. Perform Exploratory Data Analysis (EDA)
 7. Summarize and provide conclusions of my findings
 8. Discuss possible further analysis
@@ -34,21 +34,21 @@ For this project, I will answer the following questions:
 
 ### Courses
 1. What are the top ten course titles with the highest enrollment?
-2. What are the bottom ten course titles with the lowest enrollment?
+2. What are the bottom ten-course titles with the lowest enrollment?
 
 ### Difficulty Levels
-1. What are the difficulty levels of courses at Coursea?
-2. What is the enrollment numbers in courses at each difficulty level?
+1. What are the difficulty levels of courses at Coursera?
+2. What are the enrollment numbers in courses at each difficulty level?
 
 ### Certificates
 1. What types of certificates can students earn at Coursera?
 2. What is the total number of each type of certificate offered?
 
 ### Ratings
-1. What are the top ten highest rated courses at Coursera?
-2. What are the bottom ten lowest rated courses?
-3. What are the top ten highest rated educational organizations?
-4. What are the bottom ten lowest rated organizations?
+1. What are the top ten highest-rated courses at Coursera?
+2. What are the bottom ten lowest-rated courses?
+3. What are the top ten highest-rated educational organizations?
+4. What are the bottom ten lowest-rated organizations?
 
 ### Correlations
 1. How do student ratings correlate with course enrollment numbers?
