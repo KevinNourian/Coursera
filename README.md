@@ -59,7 +59,3 @@ For this project, I will answer the following questions:
 
 ## To execute the program:
 Open the file in Jupyter Notebook.
-
-
-## Logo Image Credit
-Image by: https://pixabay.com/images/id-1147815
