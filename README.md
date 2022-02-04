@@ -1,7 +1,7 @@
 ![Alt_Text](https://github.com/KevinNourian/Coursera/blob/main/Images/coursera.png)
 
 
-# Coursera Analysis
+# Coursera Dataset Analysis for Tilto, Inc.
 This project uses a dataset obtained from Kaggle. The data contains information about courses at Coursera. Coursera was founded by Daphne Koller and Andrew Ng in 2012 with a vision of providing life-transforming learning experiences to learners around the world. Today, Coursera is a global online learning platform that offers anyone, anywhere, access to online courses and degrees from leading universities and companies.
 
 I will perform the following tasks on this dataset:
